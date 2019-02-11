@@ -10,6 +10,6 @@ Ce scrpit fait la conversion de tous les Fichiers MD contenu dans un dossier ver
 `python script.py -i '..\chemin\d\entree' -o '..\chemin\de\sortie'`
 
 #### ATTENTION
-Veillez à ne pas oublier les guillemets autour du chemin d'accès s'il contient des caractères spéciaux.
+Ne pas oublier les quotes autour du path s'il contient des caractères spéciaux.
 
 
